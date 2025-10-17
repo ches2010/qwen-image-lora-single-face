@@ -1,0 +1,11 @@
+torch
+diffusers[torch]
+accelerate
+transformers
+datasets
+huggingface_hub
+opencv-python
+scikit-image
+pillow
+numpy
+tqdm
