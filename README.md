@@ -4,6 +4,7 @@
 
 ## 项目结构
 
+```
 qwen-image-lora-single-face/
 ├── README.md
 ├── requirements.txt
@@ -11,6 +12,7 @@ qwen-image-lora-single-face/
 ├── concept_prompt.txt
 └── dataset/
     └── example.jpg (示例图像)
+```
 
 ## 功能特性
 
